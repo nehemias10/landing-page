@@ -1,0 +1,152 @@
+body{
+    font-family: 'Francois One', sans-serif;
+font-family: 'Permanent Marker', cursive;
+font-family: 'Road Rage', cursive;
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Slab', serif;
+border: 0;
+margin: 0;
+}
+
+
+.primera{
+    background-color: rgb(242, 248, 247);
+    display: flex;
+    justify-content: space-between;
+    color: grey;
+    margin-bottom: 2cm;
+    padding: 4px;
+    padding-left: 8cm;
+    padding-right: 2cm;
+    padding-top: 0.5cm;
+    font-size: medium;
+    align-items: center;
+}
+
+.container{
+    background-color: rgb(242, 248, 247);
+    padding: auto;
+    margin: auto;
+    padding-bottom: 3cm;
+    justify-content: center;
+    }
+
+.segunda{
+    text-align: center;
+    font-size: large;
+    margin-bottom: 2cm;
+
+}
+
+.titulo{
+    color: rgb(16, 16, 82);
+    margin-bottom: 0.5cm;
+}
+.titulo1{
+    color: rgb(10, 10, 14);
+    margin-top: 0%;
+    padding-top: 2cm;
+}
+.parrafo1{
+    color: rgb(165, 154, 154);
+    padding-right: 10.5cm;
+    padding-left: 10.5cm;
+    padding-top: 0.5cm;
+
+}
+.parrafo{
+    color: rgb(165, 154, 154);
+    padding-right: 10.5cm;
+    padding-left: 10.5cm;
+    margin-bottom: 0.5cm;
+}
+ .botones{
+     background-color: rgb(5, 5, 78);
+     color: white;
+     padding-top: 10px;
+     padding-bottom: 10px;
+     padding-left: 10px;
+     padding-right: 10px;
+ }
+
+ .tercera{
+     text-align: center;
+ }
+ .iconos{
+     display: flex;
+     justify-content: space-between;
+     padding-left: 7cm;
+     padding-right: 7cm;
+    
+    
+ }
+
+.ejemplos{
+    display: flex;
+    padding-left: 4cm;
+    padding-right: 4cm;
+    align-items: center;
+    justify-items: center;
+    padding-left: 6cm;
+    padding-right: 6cm;
+   padding-top: 2cm;
+   text-align: justify;
+    
+}
+
+.rounded float-right{
+    border-color: rgb(6, 7, 7);
+}
+.medio{
+    padding-top: 1.5cm;
+   background-color: rgb(198, 250, 244);
+   padding-bottom: 2cm;
+}
+.title{
+    display: flex;
+    justify-content: center;
+    padding-top: 1cm;
+}
+
+.final{
+    background-color: rgb(247, 237, 235);
+}
+.amex{
+    width: 100px;
+    height: 100px;
+}
+.final{
+    justify-content: center;
+    margin: 0%;
+}
+.opinion{
+    width: 270px;
+    height: 300px;
+   padding: 1cm;
+   border-color: blue;
+   background-color: rgb(247, 237, 235);
+  text-align: center;
+  border: 1px solid rgb(180, 175, 175);
+  
+  
+  
+}
+.opiniones{
+    display: flex;
+    justify-content: space-between;
+
+    padding-left: 3cm;
+    padding-right: 3cm;
+    padding-bottom: 2cm;
+}
+
+.segunda1{
+    background-color: rgb(247, 237, 235);
+    margin: 0%;
+    text-align: center;
+    justify-content: center;
+    padding-bottom: 3cm;
+}
+*{
+    margin: 0%;
+}
